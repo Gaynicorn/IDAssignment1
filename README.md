@@ -25,25 +25,25 @@ https://xd.adobe.com/view/1b9edac4-0138-4ac2-b3c4-9bacf304885a-4ecd/
 
 ## Features
 
-DR logo
-About me
-Work
-Contact
-Submit
-To the top
-Instagram
-Linkedin
+- DR logo
+- About me
+- Work
+- Contact
+- Submit
+- To the top
+- Instagram
+- Linkedin
  
 ### Existing Features
 
-DR logo - Leads user back to the home page of the website
-About button - Leads user to the information about me
-Work button - Leads user to my portfolio
-Contact button - Leads user to the Contact me page and my contact information
-Submit button - To allow user to submit the message
-To the top button - Leads user back to the top of the page
-Instagram logo - Leads user to my instagram page
-Linkedin Logo - Leads user to my Linkedin page
+- DR logo - Leads user back to the home page of the website
+- About button - Leads user to the information about me
+- Work button - Leads user to my portfolio
+- Contact button - Leads user to the Contact me page and my contact information
+- Submit button - To allow user to submit the message
+- To the top button - Leads user back to the top of the page
+- Instagram logo - Leads user to my instagram page
+- Linkedin Logo - Leads user to my Linkedin page
 
 ### Features Left to Implement
 
