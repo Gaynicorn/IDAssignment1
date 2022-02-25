@@ -72,8 +72,8 @@ None.
 
 
 ### Media
-The little icons were taken from https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
-The font was take from https://fonts.googleapis.com/css?family=Raleway
+- The little icons were taken from https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+- The font was take from https://fonts.googleapis.com/css?family=Raleway
 
 ### Acknowledgements
-I received inspiration from https://www.w3schools.com/
+- I received inspiration from https://www.w3schools.com/
