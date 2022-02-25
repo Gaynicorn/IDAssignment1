@@ -47,12 +47,14 @@ https://xd.adobe.com/view/1b9edac4-0138-4ac2-b3c4-9bacf304885a-4ecd/
 
 ### Features Left to Implement
 
-More information about myself and my personal skills.
-My personal achievements related to the portfolio.
+- More information about myself and my personal skills.
+- My personal achievements related to the portfolio.
 
 ## Technologies Used
 
-HTML, Javascript, CSS.
+- HTML
+- Javascript
+- CSS.
 
 ## Testing
 
