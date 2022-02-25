@@ -1,39 +1,62 @@
-# Your Project's Name
+# ID Portfolio
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+This website is a portfolio about myself. The user is able to learn about me, what I love and also about the works that I do and produce. They can also contact me and find my contact information in the website.
  
 ## Design Process
- 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+Insight:
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+This website is for companies or businesses who would like to view my portfolio to decide on whether to hire me or not. They can view my past projects and works and click on my instagram link and linkedin link too.
+
+User Stories:
+
+- As an employer, I would like to click on the contact page to accesss the contact information and send a message to the owner.
+- As an employer, I would like to click on the instagram and linkedin icon to see more works of the owner and what achievements he has accomplished.
+
+![image](https://user-images.githubusercontent.com/86419457/155735852-7776c920-f852-4b87-a065-2ec6e3fecef2.png)
+![image](https://user-images.githubusercontent.com/86419457/155735933-7317201b-37a0-497e-880c-be8c6791b5fc.png)
+![image](https://user-images.githubusercontent.com/86419457/155735959-85c0d961-4eb2-4090-9899-a50d1e83dd19.png)
+![image](https://user-images.githubusercontent.com/86419457/155736145-2081be08-fce9-4166-b862-46c85154f24a.png)
+
+
+XD Wireframe:
+
+https://xd.adobe.com/view/1b9edac4-0138-4ac2-b3c4-9bacf304885a-4ecd/
+
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+DR logo
+About me
+Work
+Contact
+Submit
+To the top
+Instagram
+Linkedin
+ 
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+DR logo - Leads user back to the home page of the website
+About button - Leads user to the information about me
+Work button - Leads user to my portfolio
+Contact button - Leads user to the Contact me page and my contact information
+Submit button - To allow user to submit the message
+To the top button - Leads user back to the top of the page
+Instagram logo - Leads user to my instagram page
+Linkedin Logo - Leads user to my Linkedin page
+
 
 ### Features Left to Implement
-- Another feature idea
+
+More information about myself and my personal skills.
+My personal achievements related to the portfolio.
+
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+HTML, Javascript, CSS.
 
 
 ## Testing
